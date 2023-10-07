@@ -7,6 +7,6 @@
     - [Course 4: The Raspberry Pi Platform and Python Programming for the Raspberry Pi](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c4-The-Raspberry-Pi-Platform-and-Python/README.md)
     - [Course 5: Interfacing with the Raspberry-Pi](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c5-Interfacing-with-the-Raspberry-Pi/README.md)
     - [Course 6: Programming for the Internet of Things Project](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c6-Programming-for-the-Internet-of-Things-Project/README.md)
-- [Google Cybersecurity Specialization](Google-Cybersecurity-Specialization)
+- [Google Cybersecurity Professional Certificate](Google-Cybersecurity-Professional-Certificate/README.md)
 - [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization)
 - [Google IT Support Specialization](Google-IT-Support-Specialization)
