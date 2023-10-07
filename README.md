@@ -10,8 +10,3 @@
 - [Google Cybersecurity Specialization](Google-Cybersecurity-Specialization)
 - [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization)
 - [Google IT Support Specialization](Google-IT-Support-Specialization)
-
-# Course Certificates
-
-- [An-Introduction-to-Programming-the-Internet-of-Things-Specialization](Certificates/An-Introduction-to-Programming-the-Internet-of-Things-Specialization/README.md)
-    - [Interfacing-with-the-Arduino](Certificates/An-Introduction-to-Programming-the-Internet-of-Things-Specialization/Interfacing-with-the-Arduino/README.md)
