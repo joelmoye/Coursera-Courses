@@ -16,5 +16,5 @@
     - [Course 6: Sound the Alarm: Detection and Response](Google-Cybersecurity-Professional-Certificate/c6-Sound-the-Alarm-Detection-and-Response/README.md)
     - [Course 7: Automate Cybersecurity Tasks with Python](Google-Cybersecurity-Professional-Certificate/c7-Automate-Cybersecurity-Tasks-with-Python/README.md)
     - [Course 8: Put It to Work: Prepare for Cybersecurity Jobs](Google-Cybersecurity-Professional-Certificate/c8-Put-It-to-Work-Prepare-for-Cybersecurity-Jobs/README.md)
-- [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization)
-- [Google IT Support Specialization](Google-IT-Support-Specialization)
+- ### [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization)
+- ### [Google IT Support Specialization](Google-IT-Support-Specialization)
