@@ -49,11 +49,11 @@
     - [Course 1: Linux Fundamentals](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals/README.md)
 - ### [Linux on LinuxONE](Linux-on-LinuxONE/README.md)
 - ### [Microsoft Cybersecurity Analyst Professional Certificate](Microsoft-Cybersecurity-Analyst-Professional-Certificate)
-    - [Course 1: Introduction to Computers and Operating Systems and Security]
-    - [Course 2: Introduction to Networking and Cloud Computing]
-    - [Course 3: Cybersecurity Threat Vectors and Mitigation]
-    - [Course 4: Cybersecurity Identity and Access Solutions using Azure AD]
-    - [Course 5: Cybersecurity Solutions and Microsoft Defender]
+    - [Course 1: Introduction to Computers and Operating Systems and Security](Microsoft-Cybersecurity-Analyst-Professional-Certificate/c1-Introduction-to-Computers-and-Operating-Systems-and-Security/README.md)
+    - [Course 2: Introduction to Networking and Cloud Computing](Microsoft-Cybersecurity-Analyst-Professional-Certificate/c2-Introduction-to-Networking-and-Cloud-Computing/README.md)
+    - [Course 3: Cybersecurity Threat Vectors and Mitigation](Microsoft-Cybersecurity-Analyst-Professional-Certificate/c3-Cybersecurity-Threat-Vectors-and-Mitigation/README.md)
+    - [Course 4: Cybersecurity Identity and Access Solutions using Azure AD](Microsoft-Cybersecurity-Analyst-Professional-Certificate/c4-Cybersecurity-Identity-and-Access-Solutions-using-Azure-AD/README.md)
+    - [Course 5: Cybersecurity Solutions and Microsoft Defender](Microsoft-Cybersecurity-Analyst-Professional-Certificate/c5-Cybersecurity-Solutions-and-Microsoft-Defender/README.md)
     - [Course 6: Cybersecurity Tools and Technologies]
     - [Course 7: Cybersecurity Management and Compliance]
     - [Course 8: Advanced Cybersecurity Concepts and Capstone Project]
