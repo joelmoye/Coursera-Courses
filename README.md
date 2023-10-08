@@ -30,11 +30,11 @@
     - [Course 5: Configuration Management and the Cloud](Google-IT-Automation-with-Python-Specialization/c5-Configuration-Management-and-the-Cloud/README.md)
     - [Course 6: Automating Real-World Tasks with Python](Google-IT-Automation-with-Python-Specialization/c6-Automating-Real-World-Tasks-with-Python/README.md)
 - ### [Google IT Support Professional Certificate](Google-IT-Support-Specialization/README.md)
-    - [Course 1: Technical Support Fundamentals]
-    - [Course 2: The Bits and Bytes of Computer Networking]
-    - [Course 3: Operating Systems and You: Becoming a Power User]
-    - [Course 4: System Administration and IT Infrastructure Services]
-    - [Course 5: IT Security: Defense against the digital dark arts]
+    - [Course 1: Technical Support Fundamentals](Google-IT-Support-Specialization/c1-Technical-Support-Fundamentals/README.md)
+    - [Course 2: The Bits and Bytes of Computer Networking](Google-IT-Support-Specialization/c2-The-Bits-and-Bytes-of-Computer-Networking/README.md)
+    - [Course 3: Operating Systems and You: Becoming a Power User](Google-IT-Support-Specialization/c3-Operating-Systems-and-You-Becoming-a-Power-User/README.md)
+    - [Course 4: System Administration and IT Infrastructure Services](Google-IT-Support-Specialization/c4-System-Administration-and-IT-Infrastructure-Services/README.md)
+    - [Course 5: IT Security: Defense against the digital dark arts](Google-IT-Support-Specialization/c5-IT-Security-Defense-against-the-digital-dark-arts/README.md)
 - ### [IBM IT Support Professional Certificate](IBM-IT-Support-Specialization)
     - [Course 1: Introduction to Technical Support]
     - [Course 2: Introduction to Hardware and Operating Systems]
