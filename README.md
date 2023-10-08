@@ -16,5 +16,15 @@
     - [Course 6: Sound the Alarm: Detection and Response](Google-Cybersecurity-Professional-Certificate/c6-Sound-the-Alarm-Detection-and-Response/README.md)
     - [Course 7: Automate Cybersecurity Tasks with Python](Google-Cybersecurity-Professional-Certificate/c7-Automate-Cybersecurity-Tasks-with-Python/README.md)
     - [Course 8: Put It to Work: Prepare for Cybersecurity Jobs](Google-Cybersecurity-Professional-Certificate/c8-Put-It-to-Work-Prepare-for-Cybersecurity-Jobs/README.md)
+- ### [Architecting with Google Kubernetes Engine Specialization]
 - ### [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization/README.md)
 - ### [Google IT Support Specialization](Google-IT-Support-Specialization/README.md)
+- ### [IBM IT Support Professional Certificate]
+- ### [Introduction to Microsoft Excel]
+- ### [Introduction to Networks and Cisco Devices]
+- ### [Linux Fundamentals]
+- ### [Linux on LinuxONE]
+- ### [Microsoft Cybersecurity Analyst Professional Certificate]
+- ### [Open Source Software Development, Linux and Git Specialization]
+- ### [Python 3 Programming Specialization]
+- ### [Python for Everybody Specialization]
