@@ -35,19 +35,19 @@
     - [Course 3: Operating Systems and You: Becoming a Power User](Google-IT-Support-Specialization/c3-Operating-Systems-and-You-Becoming-a-Power-User/README.md)
     - [Course 4: System Administration and IT Infrastructure Services](Google-IT-Support-Specialization/c4-System-Administration-and-IT-Infrastructure-Services/README.md)
     - [Course 5: IT Security: Defense against the digital dark arts](Google-IT-Support-Specialization/c5-IT-Security-Defense-against-the-digital-dark-arts/README.md)
-- ### [IBM IT Support Professional Certificate](IBM-IT-Support-Specialization)
-    - [Course 1: Introduction to Technical Support]
-    - [Course 2: Introduction to Hardware and Operating Systems]
-    - [Course 3: Introduction to Software, Programming, and Databases]
-    - [Course 4: Introduction to Networking and Storage]
-    - [Course 5: Introduction to Cybersecurity Essentials]
-    - [Course 6: Introduction to Cloud Computing]
-    - [Course 7: Technical Support Case Studies and Capstone]
+- ### [IBM IT Support Professional Certificate](IBM-IT-Support-Specialization/README.md)
+    - [Course 1: Introduction to Technical Support](IBM-IT-Support-Specialization/c1-Introduction-to-Technical-Support/README.md)
+    - [Course 2: Introduction to Hardware and Operating Systems](IBM-IT-Support-Specialization/c2-Introduction-to-Hardware-and-Operating-Systems/README.md)
+    - [Course 3: Introduction to Software, Programming, and Databases](IBM-IT-Support-Specialization/c3-Introduction-to-Software-Programming-and-Databases/README.md)
+    - [Course 4: Introduction to Networking and Storage](IBM-IT-Support-Specialization/c4-Introduction-to-Networking-and-Storage/README.md)
+    - [Course 5: Introduction to Cybersecurity Essentials](IBM-IT-Support-Specialization/c5-Introduction-to-Cybersecurity-Essentials/README.md)
+    - [Course 6: Introduction to Cloud Computing](IBM-IT-Support-Specialization/c6-Introduction-to-Cloud-Computing/README.md)
+    - [Course 7: Technical Support Case Studies and Capstone](IBM-IT-Support-Specialization/c7-Technical-Support-Case-Studies-and-Capstone/README.md)
 - ### [Introduction to Microsoft Excel](Introduction-to-Microsoft-Excel/README.md)
 - ### [Introduction to Networks and Cisco Devices](Introduction-to-Networks-and-Cisco-Devices/README.md)
 - ### [Learning Linux for LFCA Certification Specialization](Learning-Linux-for-LFCA-Certification-Specialization)
     - [Course 1: Linux Fundamentals](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals/README.md)
-- ### [Linux on LinuxONE](Linux-on-LinuxONE)
+- ### [Linux on LinuxONE](Linux-on-LinuxONE/README.md)
 - ### [Microsoft Cybersecurity Analyst Professional Certificate](Microsoft-Cybersecurity-Analyst-Professional-Certificate)
     - [Course 1: Introduction to Computers and Operating Systems and Security]
     - [Course 2: Introduction to Networking and Cloud Computing]
