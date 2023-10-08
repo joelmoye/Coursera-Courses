@@ -45,7 +45,7 @@
     - [Course 7: Technical Support Case Studies and Capstone](IBM-IT-Support-Specialization/c7-Technical-Support-Case-Studies-and-Capstone/README.md)
 - ### [Introduction to Microsoft Excel](Introduction-to-Microsoft-Excel/README.md)
 - ### [Introduction to Networks and Cisco Devices](Introduction-to-Networks-and-Cisco-Devices/README.md)
-- ### [Learning Linux for LFCA Certification Specialization](Learning-Linux-for-LFCA-Certification-Specialization)
+- ### [Learning Linux for LFCA Certification Specialization](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals/README.md)
     - [Course 1: Linux Fundamentals](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals/README.md)
 - ### [Linux on LinuxONE](Linux-on-LinuxONE/README.md)
 - ### [Microsoft Cybersecurity Analyst Professional Certificate](Microsoft-Cybersecurity-Analyst-Professional-Certificate)
