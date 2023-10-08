@@ -19,12 +19,12 @@
 - ### [Architecting with Google Kubernetes Engine Specialization]
 - ### [Google IT Automation with Python Specialization](Google-IT-Automation-with-Python-Specialization/README.md)
 - ### [Google IT Support Specialization](Google-IT-Support-Specialization/README.md)
-- ### [IBM IT Support Professional Certificate]
-- ### [Introduction to Microsoft Excel]
-- ### [Introduction to Networks and Cisco Devices]
-- ### [Linux Fundamentals]
-- ### [Linux on LinuxONE]
-- ### [Microsoft Cybersecurity Analyst Professional Certificate]
-- ### [Open Source Software Development, Linux and Git Specialization]
-- ### [Python 3 Programming Specialization]
-- ### [Python for Everybody Specialization]
+- ### [IBM IT Support Professional Certificate](IBM-IT-Support-Specialization)
+- ### [Introduction to Microsoft Excel](Introduction-to-Microsoft-Excel)
+- ### [Introduction to Networks and Cisco Devices](Introduction-to-Networks-and-Cisco-Devices)
+- ### [Linux Fundamentals](Linux-Fundamentals)
+- ### [Linux on LinuxONE](Linux-on-LinuxONE)
+- ### [Microsoft Cybersecurity Analyst Professional Certificate](Microsoft-Cybersecurity-Analyst-Professional-Certificate)
+- ### [Open Source Software Development, Linux and Git Specialization](Open-Source-Software-Development-Linux-and-Git-Specialization)
+- ### [Python 3 Programming Specialization](Python-3-Programming-Specialization)
+- ### [Python for Everybody Specialization](Python-for-Everybody-Specialization)
