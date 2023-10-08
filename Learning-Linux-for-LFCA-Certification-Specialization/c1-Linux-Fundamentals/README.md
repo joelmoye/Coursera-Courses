@@ -1,6 +1,6 @@
 ## [Back to Coursera Courses](/README.md)
-### [Introduction to Microsoft Excel](https://www.coursera.org/projects/introduction-microsoft-excel)
-[Verify or Download Certificate](https://www.coursera.org/verify/8Q6LGGAN9N68)
+### [Linux Fundamentals](https://www.coursera.org/learn/linux-fundamentals)
+[Verify or Download Certificate](https://www.coursera.org/verify/4NMKTUFTNE42)
 
-![](Introduction-to-Microsoft-Excel.png)
+![](4NMKTUFTNE42.jpg)
 
