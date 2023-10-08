@@ -46,7 +46,7 @@
 - ### [Introduction to Microsoft Excel](Introduction-to-Microsoft-Excel/README.md)
 - ### [Introduction to Networks and Cisco Devices](Introduction-to-Networks-and-Cisco-Devices/README.md)
 - ### [Learning Linux for LFCA Certification Specialization](Learning-Linux-for-LFCA-Certification-Specialization)
-    - [Course 1: Linux Fundamentals](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals)
+    - [Course 1: Linux Fundamentals](Learning-Linux-for-LFCA-Certification-Specialization/c1-Linux-Fundamentals/README.md)
 - ### [Linux on LinuxONE](Linux-on-LinuxONE)
 - ### [Microsoft Cybersecurity Analyst Professional Certificate](Microsoft-Cybersecurity-Analyst-Professional-Certificate)
     - [Course 1: Introduction to Computers and Operating Systems and Security]
