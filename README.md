@@ -58,11 +58,11 @@
     - [Course 7: Cybersecurity Management and Compliance]
     - [Course 8: Advanced Cybersecurity Concepts and Capstone Project]
     - [Course 9: Microsoft SC-900 Exam Preparation and Practice]
-- ### [Open Source Software Development, Linux and Git Specialization](Open-Source-Software-Development-Linux-and-Git-Specialization)
-    - [Course 1: Open Source Software Development Methods]
-    - [Course 2: Linux for Developers]
-    - [Course 3: Linux Tools for Developers]
-    - [Course 4: Using Git for Distributed Development]
+- ### [Open Source Software Development, Linux and Git Specialization](Open-Source-Software-Development-Linux-and-Git-Specialization/README.md)
+    - [Course 1: Open Source Software Development Methods](Open-Source-Software-Development-Linux-and-Git-Specialization/c1-Open Source Software Development Methods/README.md)
+    - [Course 2: Linux for Developers](Open-Source-Software-Development-Linux-and-Git-Specialization/c2-Linux for Developers/README.md)
+    - [Course 3: Linux Tools for Developers](Open-Source-Software-Development-Linux-and-Git-Specialization/c3-Linux Tools for Developers/README.md)
+    - [Course 4: Using Git for Distributed Development](Open-Source-Software-Development-Linux-and-Git-Specialization/c4-Using Git for Distributed Development/README.md)
 - ### [Python 3 Programming Specialization](Python-3-Programming-Specialization)
     - [Course 1: Python Basics]
     - [Course 2: Python Functions, Files, and Dictionaries]
