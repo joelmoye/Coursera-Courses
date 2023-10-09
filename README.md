@@ -63,15 +63,15 @@
     - [Course 2: Linux for Developers](Open-Source-Software-Development-Linux-and-Git-Specialization/c2-Linux-for-Developers/README.md)
     - [Course 3: Linux Tools for Developers](Open-Source-Software-Development-Linux-and-Git-Specialization/c3-Linux-Tools-for-Developers/README.md)
     - [Course 4: Using Git for Distributed Development](Open-Source-Software-Development-Linux-and-Git-Specialization/c4-Using-Git-for-Distributed-Development/README.md)
-- ### [Python 3 Programming Specialization](Python-3-Programming-Specialization)
-    - [Course 1: Python Basics]
-    - [Course 2: Python Functions, Files, and Dictionaries]
-    - [Course 3: Data Collection and Processing with Python]
-    - [Course 4: Python Classes and Inheritance]
-    - [Course 5: Python Project: pillow, tesseract, and opencv]
-- ### [Python for Everybody Specialization](Python-for-Everybody-Specialization)
-    - [Course 1: Programming for Everybody (Getting Started with Python)]
-    - [Course 2: Python Data Structures]
-    - [Course 3: Using Python to Access Web Data]
-    - [Course 4: Using Databases with Python]
-    - [Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python]
+- ### [Python 3 Programming Specialization](Python-3-Programming-Specialization/README.md)
+    - [Course 1: Python Basics](Python-3-Programming-Specialization/c1-Python-Basics/README.md)
+    - [Course 2: Python Functions, Files, and Dictionaries](Python-3-Programming-Specialization/c2-Python-Functions-Files-and-Dictionaries/README.md)
+    - [Course 3: Data Collection and Processing with Python](Python-3-Programming-Specialization/c3-Data-Collection-and-Processing-with-Python/README.md)
+    - [Course 4: Python Classes and Inheritance](Python-3-Programming-Specialization/c4-Python-Classes-and-Inheritance/README.md)
+    - [Course 5: Python Project: pillow, tesseract, and opencv](Python-3-Programming-Specialization/c5-Python-Project-pillow-tesseract-and-opencv/README.md)
+- ### [Python for Everybody Specialization](Python-for-Everybody-Specialization/README.md)
+    - [Course 1: Programming for Everybody (Getting Started with Python)](Python-for-Everybody-Specialization/c1-Programming-for-Everybody-Getting-Started-with-Python/README.md)
+    - [Course 2: Python Data Structures](Python-for-Everybody-Specialization/c2-Python-Data-Structures/README.md)
+    - [Course 3: Using Python to Access Web Data](Python-for-Everybody-Specialization/c3-Using-Python-to-Access-Web-Data/README.md)
+    - [Course 4: Using Databases with Python](Python-for-Everybody-Specialization/c4-Using-Databases-with-Python/README.md)
+    - [Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python](Python-for-Everybody-Specialization/c5-Capstone-Retrieving-Processing-and-Visualizing-Data-with-Python/README.md)
