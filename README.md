@@ -9,7 +9,7 @@
     - [Course 6: Programming for the Internet of Things Project](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c6-Programming-for-the-Internet-of-Things-Project/README.md)
 - ### [Architecting with Google Kubernetes Engine Specialization](Architecting-with-Google-Kubernetes-Engine-Specialization)
     - [Course 1: Google Cloud Fundamentals: Core Infrastructure](Architecting-with-Google-Kubernetes-Engine-Specialization/c1-Google-Cloud-Fundamentals-Core-Infrastructure/README.md)
-    - [Course 2: Architecting with Google Kubernetes Engine: Foundations]
+    - [Course 2: Architecting with Google Kubernetes Engine: Foundations](Architecting-with-Google-Kubernetes-Engine-Specialization/c2-Architecting-with-Google-Kubernetes-Engine-Foundations/README.md)
     - [Course 3: Architecting with Google Kubernetes Engine: Workloads]
     - [Course 4: Architecting with Google Kubernetes Engine: Production]
 - ### [Google Cybersecurity Professional Certificate](Google-Cybersecurity-Professional-Certificate/README.md)
