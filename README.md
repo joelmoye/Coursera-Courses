@@ -7,11 +7,11 @@
     - [Course 4: The Raspberry Pi Platform and Python Programming for the Raspberry Pi](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c4-The-Raspberry-Pi-Platform-and-Python/README.md)
     - [Course 5: Interfacing with the Raspberry-Pi](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c5-Interfacing-with-the-Raspberry-Pi/README.md)
     - [Course 6: Programming for the Internet of Things Project](An-Introduction-to-Programming-the-Internet-of-Things-Specialization/c6-Programming-for-the-Internet-of-Things-Project/README.md)
-- ### [Architecting with Google Kubernetes Engine Specialization](Architecting-with-Google-Kubernetes-Engine-Specialization)
+- ### [Architecting with Google Kubernetes Engine Specialization](Architecting-with-Google-Kubernetes-Engine-Specialization/README.md)
     - [Course 1: Google Cloud Fundamentals: Core Infrastructure](Architecting-with-Google-Kubernetes-Engine-Specialization/c1-Google-Cloud-Fundamentals-Core-Infrastructure/README.md)
     - [Course 2: Architecting with Google Kubernetes Engine: Foundations](Architecting-with-Google-Kubernetes-Engine-Specialization/c2-Architecting-with-Google-Kubernetes-Engine-Foundations/README.md)
     - [Course 3: Architecting with Google Kubernetes Engine: Workloads](Architecting-with-Google-Kubernetes-Engine-Specialization/c3-Architecting-with-Google-Kubernetes-Engine-Workloads/README.md)
-    - [Course 4: Architecting with Google Kubernetes Engine: Production]
+    - [Course 4: Architecting with Google Kubernetes Engine: Production](Architecting-with-Google-Kubernetes-Engine-Specialization/c4-Architecting-with-Google-Kubernetes-Engine-Production/README.md)
 - ### [Google Cybersecurity Professional Certificate](Google-Cybersecurity-Professional-Certificate/README.md)
     - [Course 1: Foundations of Cybersecurity](Google-Cybersecurity-Professional-Certificate/c1-Foundations-of-Cybersecurity/README.md)
     - [Course 2: Play It Safe: Manage Security Risks](Google-Cybersecurity-Professional-Certificate/c2-Play-It-Safe-Manage-Security-Risks/README.md)
